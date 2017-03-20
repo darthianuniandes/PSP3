@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>PSP2 Project Plan Summary</title>
+
+<notlink href="/style.css" rel="stylesheet" type="text/css">
+<script src="/lib/fixSlash.js" type="text/javascript"></script>
+<notlink href="/dash/snippets/alert.css" rel="stylesheet" type="text/css">
+<style> table { border: 1px solid grey; border-collapse: collapse }  td    { border: 1px solid grey }  .excelTimeFmt { vnd.ms-excel.numberformat: [h]\:mm} </style></head>
+<body>
+<div><form>
+
+<h1 style='margin-top:0px'><!-- editLink -->/Non Project/PSP Fundamentals &amp; Advanced/Program 4</h1>
+<h2>PSP2 Project Plan Summary</h2>
+<!-- The snippet with id &#x27;pspProc.psp3EstTimeMismatchCheck&#x27; is not applicable for this project/prefix -->
+
+<div class="alertError">You need to enter the actual size for this project.</div>
+<!-- The snippet with id &#x27;pspForEng.PhaseSumProblemTest&#x27; is not applicable for this project/prefix -->
+<h2>Overall Metrics</h2>
+<p><table><tr><th align="left">Summary</th>
+<th style='padding-left: 10px'>Plan</th>
+<th>Actual</th>
+<th>To Date</th>
+</tr>
+<tr><td>Size/Hour</td>
+<td style='padding-left: 10px'>5.33</td>
+<td>#VALUE!</td>
+<td>1.41</td>
+</tr>
+<tr><td>Planned Time</td>
+<td class='excelTimeFmt' style='padding-left: 10px'>14:35</td>
+<td></td>
+<td class='excelTimeFmt'>40:31</td>
+</tr>
+<tr><td>Actual Time</td>
+<td style='padding-left: 10px'></td>
+<td class='excelTimeFmt'>7:34</td>
+<td class='excelTimeFmt'>27:34</td>
+</tr>
+<tr><td>CPI (Cost-Performance Index)</td>
+<td style='padding-left: 10px'></td>
+<td></td>
+<td>1.47</td>
+</tr>
+<tr><td>% Reuse</td>
+<td style='padding-left: 10px'>38.8%</td>
+<td>#VALUE!</td>
+<td>51.2%</td>
+</tr>
+<tr><td>% New Reusable</td>
+<td style='padding-left: 10px'>0%</td>
+<td>#VALUE!</td>
+<td>146%</td>
+</tr>
+<tr><td><span class="newPsp">Test Defects/KLOC or equivalent</span></td>
+<td style='padding-left: 10px'>103</td>
+<td>#VALUE!</td>
+<td>103</td>
+</tr>
+<tr><td><span class="newPsp">Total Defects/KLOC or equivalent</span></td>
+<td style='padding-left: 10px'>231</td>
+<td>#VALUE!</td>
+<td>308</td>
+</tr>
+<tr><td><span class="newPsp">Yield %</span></td>
+<td style='padding-left: 10px'>50%</td>
+<td>66.7%</td>
+<td>54.5%</td>
+</tr>
+<tr><td><span class="newPsp">Code Review Rate</span></td>
+<td style='padding-left: 10px'>103</td>
+<td>#VALUE!</td>
+<td>28.9</td>
+</tr>
+</table></p>
+
+<hr><div style="font-size:small; font-style:italic">Adapted from
+"PSP Materials," copyright &copy;&nbsp;2006 Carnegie Mellon University.
+Used by permission.</div>
+</form></div>
+
+<p><i>Report generated at 2:32 PM on Mar 20, 2017</i></p>
+<hr>
+<script src='/data.js?showExcelLink' type='text/javascript'> </script>
+</body>
+</html>
+
