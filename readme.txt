@@ -16,4 +16,4 @@ git@github.com:darthianuniandes/PSP3.git
 https://github.com/darthianuniandes/PSP3.git
 
 HEROKU URL:
-https://thawing-ridge-87904.herokuapp.com/
+https://thawing-ridge-87904.herokuapp.com/psp3
