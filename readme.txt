@@ -12,5 +12,8 @@ La aplicación soporta que ingrese la ruta completa de cualquier proyecto. Para 
 Nota: en el directorio raíz se encuentran los directorios proyectoPrueba y proyectoPruebaLibro usados para capturar la información de prueba mostrada en el script de la tarea
 
 GIT REPOSITORY: 
+git@github.com:darthianuniandes/PSP3.git
+https://github.com/darthianuniandes/PSP3.git
 
 HEROKU URL:
+https://thawing-ridge-87904.herokuapp.com/
